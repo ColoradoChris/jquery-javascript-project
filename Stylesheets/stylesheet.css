@@ -1,0 +1,14 @@
+#container {
+  width: 960px;
+  margin-top: 5px;
+}
+
+.square {
+  float: left;
+  background: black;
+}
+
+#reset {
+  margin-top: 5px;
+  margin-bottom: 15px;
+}
